@@ -6,5 +6,3 @@ nihau
 77777
 99999
 88888
-fixbobby
-aaaaaa
